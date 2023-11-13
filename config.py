@@ -9,9 +9,9 @@
             "Hell nukers"
         ],
         "roles_name": [
-            "wizzed by Aizer x vairus ",
-            "Nukers Territory",
-            "Aizer x virus  Papa Here"
+            "DEMONS",
+            "RAIDERS",
+            "LUCIFER ARMY"
         ],
         "messages_content": [
             "@everyone @here **LUCIFER SE PANGA NEI** https://discord.gg/sgVK8Shp98",
